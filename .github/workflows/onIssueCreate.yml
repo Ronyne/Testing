@@ -15,3 +15,6 @@ jobs:
           --data '{
             "body": "This is an auto comment! \n"
             }'
+            
+runs: 
+  main: index.js
